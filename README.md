@@ -1,5 +1,10 @@
 # Bitbird x Angular (↑%)
 
+![David](https://img.shields.io/david/rossyman/bitbird-ng)
+![GitHub issues](https://img.shields.io/github/issues/rossyman/bitbird-ng)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rossyman/bitbird-ng)
+![GitHub](https://img.shields.io/github/license/rossyman/bitbird-ng)
+
 A vibrant new bitbird website wrote with Angular, not WordPress ✨
 
 Thanks for checking out this repo! ❤️ This repository of work is in no way intended to represent an official change in bitbird's website; rather it was intended to showcase the flexibility of using a single-page-application framework, over a server-side based framework like WordPress.
@@ -25,8 +30,8 @@ The website was written using TypeScript 3.9, Angular 10 and a whole host of oth
 
 ## Firing It Up (🔥↑)
 
-To run the website, test or build the website locally, you'll need to have a few things installed:
- - [x] Node.js (LTS - v12) - [Get here](https://nodejs.org/)
+To run, test or build the website locally, you'll need to have a few things installed:
+ - [x] Node.js (LTS - v12) - [Get it here](https://nodejs.org/)
  - [x] NPM (Bundled with Node.js)
  
 ### Running The Site
