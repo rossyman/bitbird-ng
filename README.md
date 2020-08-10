@@ -35,7 +35,7 @@ There are two ways in which you can launch the site:
 - In dev mode, which is what is used when working on the site: `npm run start`
 - In prod mode, which resembles the live site: `npm run start:prod`
 
-### Building the site
+### Building The Site
 
 There are two ways in which you can build the site, similarly to points above:
 - In dev mode, which should only be used in testing environments: `npm run build`
