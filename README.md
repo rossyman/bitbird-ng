@@ -34,6 +34,21 @@ To run, test or build the website locally, you'll need to have a few things inst
  - [x] Node.js (LTS - v12) - [Get it here](https://nodejs.org/)
  - [x] NPM (Bundled with Node.js)
  
+Once you've installed Node.js, you'll need to checkout the repository:
+
+```bash
+git clone https://github.com/rossyman/bitbird-ng.git
+```
+
+After checking out the `develop` branch (The working branch against which all tested, but pre-prod, commits are made against), you'll then be able to install the NPM dependencies needed for the project to run:
+
+```bash
+# 🚨 - Make sure that you've cd'd into the correct directory first
+npm install
+```
+
+After the dependency installation has completed, you'll be able to use the NPM commands listed below. If you have any questions or issues relating to this process, feel free to [raise an issue here](https://github.com/rossyman/bitbird-ng/issues).
+ 
 ### Running The Site
 
 There are two ways in which you can launch the site:
